@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these data or this software, please cite the archived release and the associated article."
+title: "SEM-image: Data and software for multi-task clay classification, mineral-fraction estimation, and property prediction from SEM micrographs"
+type: software
+authors:
+  - family-names: "Tiwari"
+    given-names: "Rishabh"
+    orcid: "https://orcid.org/0000-0002-1316-4181"
+version: "1.0.0"
+date-released: "2026-09-19"
+repository-code: "https://github.com/rishu-coder/SEM-image"
+url: "https://github.com/rishu-coder/SEM-image"
+license: "MIT"
+keywords:
+  - scanning electron microscopy
+  - clay mineralogy
+  - deep learning
+  - multi-task learning
+  - mineral-fraction estimation
+  - geotechnical properties
+abstract: >-
+  Data and software supporting a multi-task deep-learning framework for
+  clay classification, mineral-fraction estimation, and engineering-property
+  prediction from scanning electron microscopy micrographs.
+``
